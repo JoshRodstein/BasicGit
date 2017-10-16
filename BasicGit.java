@@ -3,7 +3,8 @@ import java.util.*;
 public class BasicGit {
 
     public static void main(String[] args){
-	for(int i = 0; i < 10; i++)
+	// modified to count from 1-20
+	for(int i = 0; i < 20; i++)
 	    System.out.println(i+1);
 
 
